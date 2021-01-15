@@ -1,4 +1,4 @@
-#######################Enabling notebook extension fileupload/extension...#######################
+#######################Enabling jupyter notebook extension fileupload/extension...#######################
 
 !pip install wordcloud
 !pip install fileupload
