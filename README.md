@@ -1,7 +1,7 @@
  
-//\\                                                                                      //\\
-\\//  https://drive.google.com/file/d/1pgpG91ixWQCF7RD7CzdZxyPv73iNXI48/view?usp=sharing  \\//
-
+                                                                                      
+# \\//  https://drive.google.com/file/d/1pgpG91ixWQCF7RD7CzdZxyPv73iNXI48/view?usp=sharing  \\//
+           (video link of how the project  work)
 
  # For this project, I am creating a "word cloud"(i.e. Image) from a text by writing a script in python using jupyter notebook.
 
